@@ -4,8 +4,4 @@ dierci
 
 disanci
 
-<<<<<<< HEAD
-diliuci
-=======
-disici
->>>>>>> zhang
+zhang
